@@ -1,0 +1,20 @@
+
+
+.wrapper{
+    padding: 2rem;
+}
+h1{
+    font-weight: 700;
+    font-size: 54px;
+    
+}
+
+.para{
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+    text-align: justify;
+    font-size: 28px;
+}
+a{
+    color: blue;
+}
